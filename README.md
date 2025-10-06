@@ -1,2 +1,2 @@
 # PracticasClase
-Ejercicios en clase ed metodología de la programación
+Ejercicios en clase de metodología de la programación
